@@ -15,7 +15,8 @@ Users can create posts, like, comment, and connect — just like the real Linked
 
 ## 📸 Screenshots
 ### 🏠 Homepage
-![Homepage](<img width="1886" height="1044" alt="home page" src="https://github.com/user-attachments/assets/44e2fba5-1a8f-4a03-a6e3-4781513c2f34" />)
+![Homepage](<img width="1886" height="1044" alt="home page" src="https://github.com/user-attachments/assets/27c3f192-11e1-4bd3-bc76-d109942ab2bc" />
+)
 ### 📰 Post Page
 ![Post Page](<img width="1716" height="928" alt="post page" src="https://github.com/user-attachments/assets/b559ae97-9bbb-447c-ae40-4eb64d90c6b9" />)
 ### 👤 Profile Page
