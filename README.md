@@ -16,19 +16,19 @@ Users can create posts, like, comment, and connect — just like the real Linked
 ## 📸 Project Screenshots  
 
 <p align="center">
-  <img src="./LinkedIn_Screenshots/sign up page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/sign up page.png" width="75%" />
   <br/><b>📝 Sign Up Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/sing in.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/sing in.png" width="75%" />
   <br/><b>🔑 Sign In Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/home page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/home page.png" width="75%" />
   <br/><b>🏠 Home Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/post page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/post page.png" width="75%" />
   <br/><b>🧾 Post Page</b>
   <br/><br/>
 
@@ -36,15 +36,15 @@ Users can create posts, like, comment, and connect — just like the real Linked
   <br/><b>❤️ Like & Comment Feature</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/notification.jpeg" width="45%" />
+  <img src="./LinkedIn_Screenshots/notification.jpeg" width="75%" />
   <br/><b>🔔 Notification Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/profile page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/profile page.png" width="75%" />
   <br/><b>👤 Profile Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/connect req page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/connect req page.png" width="75%" />
   <br/><b>🤝 Connection Request Page</b>
 </p>
 
