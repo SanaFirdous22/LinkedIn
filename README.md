@@ -13,14 +13,32 @@ Users can create posts, like, comment, and connect — just like the real Linked
 - Node.js
 - Render
 
-## 📸 Screenshots
-### 🏠 Homepage
-![Homepage](<img width="1886" height="1044" alt="home page" src="https://github.com/user-attachments/assets/27c3f192-11e1-4bd3-bc76-d109942ab2bc" />
-)
-### 📰 Post Page
-![Post Page](<img width="1716" height="928" alt="post page" src="https://github.com/user-attachments/assets/b559ae97-9bbb-447c-ae40-4eb64d90c6b9" />)
-### 👤 Profile Page
-![Profile Page](<img width="1920" height="1050" alt="profile page" src="https://github.com/user-attachments/assets/5afdbe43-2f1c-42ab-a09c-95f69841b1a7" />)
+## 📸 Project Screenshots  
+
+### 🔹 Sign Up & Sign In  
+<p float="left">
+  <img src="./LinkedIn_Screenshots/sign up page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/sing in.png" width="45%" />
+</p>
+
+### 🔹 Home & Post Page  
+<p float="left">
+  <img src="./LinkedIn_Screenshots/home page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/post page.png" width="45%" />
+</p>
+
+### 🔹 Like & Comment + Notifications  
+<p float="left">
+  <img src="./LinkedIn_Screenshots/like & comment.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/notification.jpeg" width="45%" />
+</p>
+
+### 🔹 Profile & Connection Request Page  
+<p float="left">
+  <img src="./LinkedIn_Screenshots/profile page.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/connect req page.png" width="45%" />
+</p>
+
 
 ## 🧑‍💻 Setup Locally
 
