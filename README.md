@@ -15,28 +15,37 @@ Users can create posts, like, comment, and connect — just like the real Linked
 
 ## 📸 Project Screenshots  
 
-### 🔹 Sign Up & Sign In  
-<p float="left">
+<p align="center">
   <img src="./LinkedIn_Screenshots/sign up page.png" width="45%" />
+  <br/><b>📝 Sign Up Page</b>
+  <br/><br/>
+
   <img src="./LinkedIn_Screenshots/sing in.png" width="45%" />
-</p>
+  <br/><b>🔑 Sign In Page</b>
+  <br/><br/>
 
-### 🔹 Home & Post Page  
-<p float="left">
   <img src="./LinkedIn_Screenshots/home page.png" width="45%" />
+  <br/><b>🏠 Home Page</b>
+  <br/><br/>
+
   <img src="./LinkedIn_Screenshots/post page.png" width="45%" />
-</p>
+  <br/><b>🧾 Post Page</b>
+  <br/><br/>
 
-### 🔹 Like & Comment + Notifications  
-<p float="left">
   <img src="./LinkedIn_Screenshots/like & comment.png" width="45%" />
-  <img src="./LinkedIn_Screenshots/notification.jpeg" width="45%" />
-</p>
+  <br/><b>❤️ Like & Comment Feature</b>
+  <br/><br/>
 
-### 🔹 Profile & Connection Request Page  
-<p float="left">
+  <img src="./LinkedIn_Screenshots/notification.jpeg" width="45%" />
+  <br/><b>🔔 Notification Page</b>
+  <br/><br/>
+
   <img src="./LinkedIn_Screenshots/profile page.png" width="45%" />
+  <br/><b>👤 Profile Page</b>
+  <br/><br/>
+
   <img src="./LinkedIn_Screenshots/connect req page.png" width="45%" />
+  <br/><b>🤝 Connection Request Page</b>
 </p>
 
 
