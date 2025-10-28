@@ -32,7 +32,7 @@ Users can create posts, like, comment, and connect — just like the real Linked
   <br/><b>🧾 Post Page</b>
   <br/><br/>
 
-  <img src="./LinkedIn_Screenshots/like & comment.png" width="45%" />
+  <img src="./LinkedIn_Screenshots/like & comment.png" width="75%" />
   <br/><b>❤️ Like & Comment Feature</b>
   <br/><br/>
 
